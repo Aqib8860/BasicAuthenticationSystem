@@ -2,7 +2,7 @@
 
 This is a basic Authentication System by using Django REST Framework
 
-API Endpoints
+API Endpoints for testing on heroku
 
 For Registration 
 - https://basic-authentication-test.herokuapp.com/
