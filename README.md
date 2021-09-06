@@ -10,4 +10,4 @@ For Registration
 For Login
 https://basic-authentication-test.herokuapp.com/rest-auth/login
 
-Note :- Username is optional Field
+Note :- Email is required & Username is an optional Field
